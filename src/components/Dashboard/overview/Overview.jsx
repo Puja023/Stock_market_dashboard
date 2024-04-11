@@ -4,7 +4,7 @@ function Overview() {
     return (
 
         <>
-            <div className=" lg:col-span-4 text-white text-left">
+            <div className="md:col-span-4 lg:col-span-4 text-white text-left">
                 <div className='bg-[#181C1F] h-[12rem]  text-center' style={{ borderRadius: '20px' }}>
                     <h2 className="mb-4 text-gray-200 pt-6 text-2xl">
                         My Wallet
@@ -18,7 +18,7 @@ function Overview() {
                 </div>
             </div>
 
-            <div className=" lg:col-span-4 text-white text-left">
+            <div className="md:col-span-4 lg:col-span-4 text-white text-left">
                 <div className='bg-[#181C1F] h-[12rem]   text-center' style={{ borderRadius: '20px' }}>
                     <h2 className="mb-4 text-gray-200 pt-6 text-2xl">
                         Total Investment
@@ -32,7 +32,7 @@ function Overview() {
                 </div>
             </div>
 
-            <div className="lg:col-span-4 text-white text-left">
+            <div className="md:col-span-4 lg:col-span-4 text-white text-left">
                 <div className='bg-[#181C1F] h-[12rem]  text-center' style={{ borderRadius: '20px' }}>
                     <h3 className="mb-4 text-gray-200 pt-6 text-2xl">
                         Return of Investment

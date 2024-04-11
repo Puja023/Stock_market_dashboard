@@ -1,3 +1,20 @@
-/* .active{
-    background-color: greenyellow;
-} */
+
+
+@media (min-width: 767px) and (max-width: 991px) {
+    .tablet-flex-wrap {
+      flex-wrap: wrap;
+    }
+    .progress_bar{
+        width: 100%;
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    .tablet-flex-wrap {
+        flex-wrap: wrap;
+      }
+      .progress_bar{
+          width: 100%;
+      }
+  }
+  

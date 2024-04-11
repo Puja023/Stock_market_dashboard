@@ -12,14 +12,14 @@ const Dashboard = () => {
     return (
         <>
             <div className="grid grid-cols-1 md:grid-cols-12 gap-5 px-5" style={{marginTop:'140px'}}>
-                <div className="lg:col-span-9">
+                <div className="md:col-span-12 lg:col-span-9">
                     <div className="grid grid-cols-1 md:grid-cols-12 gap-5">
                     <Overview />
                         <GraphData />
                         <TabularData />
                     </div>
                 </div>
-                <div className="lg:col-span-3">
+                <div className="md:col-span-12  lg:col-span-3">
                     <Wallet />
                 </div>
             </div>

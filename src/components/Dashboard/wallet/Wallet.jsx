@@ -89,7 +89,7 @@ const Wallet = () => {
                 <hr />
             </div>
 
-            <div className='flex items-center bg-[#0D171B] px-3 lg:justify-between rounded-lg lg:gap-0 gap-5  py-3 mt-4'>
+            <div className='flex items-center bg-[#0D171B] px-3 lg:justify-between md:justify-between rounded-lg lg:gap-0 gap-5  py-3 mt-4'>
                 <div>
                     <button className="bg-green-500  text-white px-4 py-2  justify-center flex flex-col items-center text-base w-32 rounded-lg" onClick={() => buySell('Buy')}>
                         <span>BUY</span>

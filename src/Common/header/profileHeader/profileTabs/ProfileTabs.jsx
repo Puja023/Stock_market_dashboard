@@ -19,7 +19,7 @@ const ProfileTabs = () => {
 
     return (
         <div>
-            <div className="border-b flex px-4 justify-between items-center border-gray-500 dark:border-gray-700">
+            <div className="border-b flex px-4 justify-between items-center border-gray-500 dark:border-gray-700 tablet-flex-wrap">
                 <ul className="flex flex-wrap -mb-px text-sm font-medium text-center text-gray-500 dark:text-gray-400">
                     <li className="me-2 py-3">
                         <button onClick={() => handleTabClick('Activity')} className={`flex p-2 gap-2 items-center cursor-pointer rounded-lg  text-sm justify-center border-b-2 font-semibold ${activeTab === 'Activity' ? 'text-white bg-green-500 border-green-500' : 'text-white border-transparent bg-transparent hover:bg-green-500 hover:text-white hover:border-green-500 dark:hover:text-white dark:hover:bg-green-500 dark:hover:border-green-500 group'}`}>
@@ -45,7 +45,7 @@ const ProfileTabs = () => {
                         </button>
                     </li>
                 </ul>
-                <div className='py-3 px-2'>
+                <div className='py-3 px-2 progress_bar'>
                     <p className="font-semibold mb-2 ms-2 text-white">Profile 60% completed - <a className="text-green-500 text-[0.75rem]" href=" #">Finish now</a></p>
                     <div className="w-full bg-gray-200 rounded-full h-1.5 mb-4 dark:bg-gray-700">
                         <div className="bg-green-500 h-1.5 rounded-full dark:bg-green-500" style={{width:'45%'}}></div>

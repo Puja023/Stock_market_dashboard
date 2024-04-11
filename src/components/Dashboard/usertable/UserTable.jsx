@@ -58,7 +58,7 @@ function UserTable() {
     }
     return (
         <>
-            <div className="lg:col-span-5 mt-5">
+            <div className="lg:col-span-5 md:col-span-12 mt-5">
                 <div className="relative overflow-x-auto shadow-md sm:rounded-lg bg-[#181C1F] h-[auto] py-4 px-5 mx-auto'" style={{ borderRadius: '20px' }}>
                     <div className="flex items-center justify-between flex-column flex-wrap md:flex-row space-y-4 md:space-y-0 pb-4 ">
                         <div className='text-white'>
@@ -171,7 +171,7 @@ function UserTable() {
                 </div>
 
             </div>
-            <div className="lg:col-span-3 mt-5">
+            <div className="lg:col-span-3 md:col-span-12 mt-5">
                 <div className='bg-[#181C1F] h-[auto] py-4 px-5 mx-auto' style={{ borderRadius: '20px' }}>
                     <div className="flex items-center justify-between flex-column flex-wrap md:flex-row space-y-4 md:space-y-0 pb-4 ">
                         <div className='text-white'>
@@ -258,7 +258,7 @@ function UserTable() {
 
                 </div>
             </div>
-            <div className="lg:col-span-4 mt-5">
+            <div className="lg:col-span-4 md:col-span-12 mt-5">
                 <div className='bg-[#181C1F] h-[auto] py-4 px-5 mx-auto' style={{ borderRadius: '20px' }}>
                     <div className="flex items-center justify-between flex-column flex-wrap md:flex-row space-y-4 md:space-y-0 pb-7 ">
                         <div className='text-white'>

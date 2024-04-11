@@ -183,7 +183,7 @@ function ProfileHeader() {
                     </div>
 
                 </div>
-                <div className='lg:col-span-8 md:col-span-12 col-span-12'>
+                <div className='lg:col-span-8 md:col-span-12 col-span-12 md:mt-5 mt-5 lg:mt-0'>
 
                     <div className='bg-[#181C1F]' style={{ borderRadius: '20px' }}>
                         <ProfileTabs />
@@ -226,7 +226,7 @@ function ProfileHeader() {
                                 </div>
                             </div>
                         </div>
-                        <div className='xl:col-span-4 col-span-12'>
+                        <div className='xl:col-span-4 col-span-12 md:mt-5 mt-5 lg:mt-0'>
                             <div className='bg-[#181C1F] py-2 h-[25rem]' style={{ borderRadius: '20px' }}>
                                 <div className='box'>
                                     <div className='flex items-center justify-between border-b border-gray-500'>
@@ -293,7 +293,7 @@ function ProfileHeader() {
                                 </div>
                             </div>
                         </div>
-                        <div className='xl:col-span-4 col-span-12'>
+                        <div className='xl:col-span-4 col-span-12 md:mt-5 mt-5 lg:mt-0'>
                             <div className='bg-[#181C1F] h-[25rem] py-2 ' style={{ borderRadius: '20px' }}>
                                 <div className='box'>
                                     <div className='flex justify-between items-center'>
