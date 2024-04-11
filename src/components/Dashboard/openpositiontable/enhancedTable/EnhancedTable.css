@@ -1,0 +1,23 @@
+
+  th:hover {
+    color: white;
+  }
+  thead{
+    background-color: #0D171B;
+  }
+  .table-header th:first-child {
+    border-top-left-radius: 30px; 
+    border-bottom-left-radius: 30px;
+  }
+  
+  .table-header th:last-child {
+    border-top-right-radius: 30px; 
+    border-bottom-right-radius: 30px; 
+  }
+  .min-w-full{
+    margin-top: 10px;
+  }
+  .border-r-20{
+    border-radius: 20px;
+  }
+  

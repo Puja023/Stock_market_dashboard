@@ -1,0 +1,35 @@
+.table-wrapper {
+    height: 369px; 
+    overflow-y: auto; 
+    overflow-x: hidden;
+    padding-bottom: 20px;
+  }
+  
+  .table-wrapper::-webkit-scrollbar {
+    width: 5px; 
+  }
+  
+  .table-wrapper::-webkit-scrollbar-track {
+    background-color: gray;
+  }
+  
+  .table-wrapper::-webkit-scrollbar-thumb {
+    background: rgb(34 197 94); 
+    border-radius: 10px; 
+  }
+  
+  .table-wrapper::-webkit-scrollbar-thumb:hover {
+    background: rgb(34 197 94); 
+  }
+.modal-open {
+  overflow: hidden !important;
+}
+
+
+
+
+
+
+
+  
+  

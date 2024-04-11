@@ -1,0 +1,741 @@
+{
+  "currencyData": [
+    {
+      "image": "../images/bitcoin-btc-logo.png",
+      "currencyName": "BITCOIN",
+      "Change": "-0.08%",
+      "Bid": "48045.00",
+      "Ask": "48152.00",
+      "id": "76a7"
+    },
+    {
+      "image": "../images/bitcoin-btc-logo.png",
+      "currencyName": "DE30",
+      "Change": "-0.08%",
+      "Bid": "48035.00",
+      "Ask": "48152.00",
+      "id": "ca19"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "currencyName": "EURUSD",
+      "Change": "-0.08%",
+      "Bid": "48055.00",
+      "Ask": "48152.00",
+      "id": "1de1"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "currencyName": "GOLD",
+      "Change": "-0.08%",
+      "Bid": "48055.00",
+      "Ask": "48152.00",
+      "id": "ab77"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "currencyName": "US100",
+      "Change": "-0.08%",
+      "Bid": "48055.00",
+      "Ask": "48152.00",
+      "id": "2bc5"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "currencyName": "US100",
+      "Change": "-0.08%",
+      "Bid": "48055.00",
+      "Ask": "48152.00",
+      "id": "8fbf"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "currencyName": "US100",
+      "Change": "-0.08%",
+      "Bid": "48055.00",
+      "Ask": "48152.00",
+      "id": "63d5"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "currencyName": "SILVER",
+      "Change": "-0.08%",
+      "Bid": "48055.00",
+      "Ask": "48152.00",
+      "id": "0b10"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "currencyName": "US100",
+      "Change": "-0.08%",
+      "Bid": "48055.00",
+      "Ask": "48152.00",
+      "id": "e8cb"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "currencyName": "US100",
+      "Change": "-0.08%",
+      "Bid": "48055.00",
+      "Ask": "48152.00",
+      "id": "6ab8"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "currencyName": "US100",
+      "Change": "-0.08%",
+      "Bid": "48055.00",
+      "Ask": "48152.00",
+      "id": "11d5"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "currencyName": "US100",
+      "Change": "-0.08%",
+      "Bid": "48055.00",
+      "Ask": "48152.00",
+      "id": "010c"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "currencyName": "US100",
+      "Change": "-0.08%",
+      "Bid": "48055.00",
+      "Ask": "48152.00",
+      "id": "3ace"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "currencyName": "US100",
+      "Change": "-0.08%",
+      "Bid": "48055.00",
+      "Ask": "48152.00",
+      "id": "9391"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "currencyName": "DE30",
+      "Change": "-0.08%",
+      "Bid": "48055.00",
+      "Ask": "48152.00",
+      "id": "6718"
+    }
+  ],
+  "OpenPosition": [
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "position": "BITCOIN",
+      "type": "-0.00009%",
+      "volume": "$92.55",
+      "market_value": "$59.55",
+      "sl": "$59.92",
+      "tp": "$59.92",
+      "open_price": "$59.92",
+      "market_price": "$59.92",
+      "gross_price": "$59.92",
+      "id": "48e1"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "position": "BITCOIN",
+      "type": "-0.05%",
+      "volume": "$92.55",
+      "market_value": "$59.55",
+      "sl": "$59.92",
+      "tp": "$59.92",
+      "open_price": "$59.92",
+      "market_price": "$59.92",
+      "gross_price": "$59.92",
+      "id": "551e"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "position": "Zindex",
+      "type": "-0.02%",
+      "volume": "$80.55",
+      "market_value": "$50.55",
+      "sl": "$50.92",
+      "tp": "$50.92",
+      "open_price": "$50.92",
+      "market_price": "$50.92",
+      "gross_price": "$50.92",
+      "id": "3f90"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "position": "GOLD",
+      "type": "-0.007%",
+      "volume": "$92.55",
+      "market_value": "$58.55",
+      "sl": "$58.92",
+      "tp": "$58.92",
+      "open_price": "$58.92",
+      "market_price": "$58.92",
+      "gross_price": "$58.92",
+      "id": "f508"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "position": "BITCOIN",
+      "type": "-0.0%",
+      "volume": "$92.55",
+      "market_value": "$59.55",
+      "sl": "$53.92",
+      "tp": "$53.92",
+      "open_price": "$53.92",
+      "market_price": "$53.92",
+      "gross_price": "$53.92",
+      "id": "0759"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "position": "BITCOIN",
+      "type": "-0.08%",
+      "volume": "$95.55",
+      "market_value": "$56.55",
+      "sl": "$56.92",
+      "tp": "$56.92",
+      "open_price": "$56.92",
+      "market_price": "$56.92",
+      "gross_price": "$56.92",
+      "id": "f9b8"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "position": "BITCOIN",
+      "type": "-0.08%",
+      "volume": "$92.55",
+      "market_value": "$51.55",
+      "sl": "$51.92",
+      "tp": "$51.92",
+      "open_price": "$51.92",
+      "market_price": "$51.92",
+      "gross_price": "$51.92",
+      "id": "6ba3"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "position": "BITCOIN",
+      "type": "-0.08%",
+      "volume": "$92.55",
+      "market_value": "$55.55",
+      "sl": "$55.92",
+      "tp": "$55.92",
+      "open_price": "$55.92",
+      "market_price": "$55.92",
+      "gross_price": "$55.92",
+      "id": "8a00"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "position": "BITCOIN",
+      "type": "-0.08%",
+      "volume": "$90.55",
+      "market_value": "$59.55",
+      "sl": "$59.92",
+      "tp": "$59.92",
+      "open_price": "$59.92",
+      "market_price": "$59.92",
+      "gross_price": "$59.92",
+      "id": "8e46"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "position": "BITCOIN",
+      "type": "-0.08%",
+      "volume": "$90.55",
+      "market_value": "$59.55",
+      "sl": "$59.92",
+      "tp": "$59.92",
+      "open_price": "$59.92",
+      "market_price": "$59.92",
+      "gross_price": "$59.92",
+      "id": "6d2f"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "position": "BITCOIN",
+      "type": "-0.08%",
+      "volume": "$90.55",
+      "market_value": "$59.55",
+      "sl": "$59.92",
+      "tp": "$59.92",
+      "open_price": "$59.92",
+      "market_price": "$59.92",
+      "gross_price": "$59.92",
+      "id": "0355"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "position": "BITCOIN",
+      "type": "-0.08%",
+      "volume": "$90.55",
+      "market_value": "$59.55",
+      "sl": "$59.92",
+      "tp": "$59.92",
+      "open_price": "$59.92",
+      "market_price": "$59.92",
+      "gross_price": "$59.92",
+      "id": "5d62"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "position": "BITCOIN",
+      "type": "-0.08%",
+      "volume": "$90.55",
+      "market_value": "$59.55",
+      "sl": "$59.92",
+      "tp": "$59.92",
+      "open_price": "$59.92",
+      "market_price": "$59.92",
+      "gross_price": "$59.92",
+      "id": "14be"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "position": "BITCOIN",
+      "type": "-0.08%",
+      "volume": "$90.55",
+      "market_value": "$59.55",
+      "sl": "$59.92",
+      "tp": "$59.92",
+      "open_price": "$59.92",
+      "market_price": "$59.92",
+      "gross_price": "$59.92",
+      "id": "c9fc"
+    },
+    {
+      "image": "./images/bitcoin-btc-logo.png",
+      "position": "BITCOIN",
+      "type": "-0.08%",
+      "volume": "$90.55",
+      "market_value": "$59.55",
+      "sl": "$59.92",
+      "tp": "$59.92",
+      "open_price": "$59.92",
+      "market_price": "$59.92",
+      "gross_price": "$59.92",
+      "id": "ed4a"
+    }
+  ],
+  "currencyValue": {
+    "currencyName": "DE30",
+    "assetClass": "CFD",
+    "subclass": "Europe",
+    "currency": "EUR",
+    "nominalValueOf1Lost": "Instrument level *25",
+    "minPositionSize": 0.01,
+    "maxPositionSize": 100,
+    "commission": "-",
+    "leverage": "1.20(5.00%)",
+    "dailySwap": {
+      "long": -0.021967,
+      "short": -0.000967
+    },
+    "expiration": "365 days",
+    "rollover": {
+      "Last": "Dec 15, 2023",
+      "Next": "Mar 15, 2023"
+    },
+    "marketHours": {
+      "Mon": "05:45-00.00",
+      "Tue": {
+        "morning": "00.00-02:30",
+        "evening": "05:45-00.00"
+      },
+      "Wed": {
+        "morning": "00.00-02:30",
+        "evening": "05:45-00.00"
+      },
+      "Thu": {
+        "morning": "00.00-02:30",
+        "evening": "05:45-00.00"
+      },
+      "Fri": {
+        "morning": "00.00-02:30",
+        "evening": "05:45-00.00"
+      },
+      "Sat": "00:00-02:30"
+    }
+  },
+  "tabs": [
+    {
+      "id": "performance",
+      "name": "Performance",
+      "content": [
+        {
+          "label": "1D",
+          "value1": "-27.60",
+          "value2": "-0.16"
+        },
+        {
+          "label": "1W",
+          "value1": "-74.60",
+          "value2": "-0.44"
+        },
+        {
+          "label": "1M",
+          "value1": "205.40",
+          "value2": "1.22"
+        },
+        {
+          "label": "3M",
+          "value1": "1639.30",
+          "value2": "10.64"
+        },
+        {
+          "label": "6M",
+          "value1": "1138.40",
+          "value2": "7.15"
+        },
+        {
+          "label": "1Y",
+          "value1": "1588.90",
+          "value2": "10.28"
+        }
+      ]
+    }
+  ],
+  "traders": [
+    {
+      "name": "Leslie Livingston",
+      "image": "",
+      "desc": "Bought 0.008213 Bitcoin using ****9808",
+      "amount": {
+        "totalAmount": 0.09251821409,
+        "convertedPrice": "$1203",
+        "Short": "BTC"
+      },
+      "id": "9c67"
+    },
+    {
+      "name": "Alicia Smith",
+      "image": "",
+      "desc": "Sold - 0.7902400 Litecoin",
+      "amount": {
+        "totalAmount": 0.2362333001,
+        "convertedPrice": "$19,092.56",
+        "Short": "LTC"
+      },
+      "id": "4754"
+    },
+    {
+      "name": "Branco Eliga",
+      "image": "",
+      "desc": "Bought +12.9092 Euro coin",
+      "amount": {
+        "totalAmount": 0.009823487,
+        "convertedPrice": "$8,977.46",
+        "Short": "EUROC"
+      },
+      "id": "4c4b"
+    },
+    {
+      "name": "Alec Carey",
+      "image": "",
+      "desc": "Bought 32.09472944 Dash using wallet",
+      "amount": {
+        "totalAmount": 8.8823459,
+        "convertedPrice": "$9,772.46",
+        "Short": "DASH"
+      },
+      "id": "40e3"
+    },
+    {
+      "name": "Sia Linda",
+      "image": "",
+      "desc": "Sent 0.00662 Bitcoin to Ravos Chan",
+      "amount": {
+        "totalAmount": 58.62256,
+        "convertedPrice": "$9,772.46",
+        "Short": "BTC"
+      },
+      "id": "6f65"
+    },
+    {
+      "name": "Ryan Ranolds",
+      "image": "",
+      "desc": "Bought 2.098123 Etherium",
+      "amount": {
+        "totalAmount": 190.0092773,
+        "convertedPrice": "$18,283982.00",
+        "Short": "ETH"
+      },
+      "id": "acea"
+    }
+  ],
+  "Bitcoin_Price_Statistics": {
+    "coinType": "Bitcoin",
+    "country": "usd",
+    "price": {
+      "type": "increased",
+      "cost": "",
+      "day": "today"
+    },
+    "trade": {
+      "value": "",
+      "name": "tradeValue"
+    },
+    "market": {
+      "dominant": 70,
+      "years": 3,
+      "value": "#1",
+      "altimateHigh": ""
+    },
+    "weekData": {
+      "high": "",
+      "low": ""
+    }
+  },
+  "Recent_Activity": [
+    {
+      "Date": "Dec 15",
+      "Currency": {
+        "image": "/images/Euro.svg",
+        "Name": "Bitcoin",
+        "Amount": "0.0092312"
+      },
+      "From_To": {
+        "Profile_Image": "profile.jpg",
+        "Name": "Neil Sims"
+      },
+      "Time_Status": {
+        "Time": "04:24PM",
+        "Status": "Sent"
+      },
+      "id": "d6c5"
+    },
+    {
+      "Date": "Dec 24",
+      "Currency": {
+        "image": "/images/Ethereum.svg",
+        "Name": "Etherium",
+        "Amount": "0.9207702"
+      },
+      "From_To": {
+        "Profile_Image": "profile.jpg",
+        "Name": "Jackie Shraff"
+      },
+      "Time_Status": {
+        "Time": "11:57PM",
+        "Status": "Received"
+      },
+      "id": "a145"
+    },
+    {
+      "Date": "Dec 15",
+      "Currency": {
+        "image": "/images/Ethereum.svg",
+        "Name": "Dash",
+        "Amount": "0.83092333"
+      },
+      "From_To": {
+        "Profile_Image": "profile.jpg",
+        "Name": "Json Taylor"
+      },
+      "Time_Status": {
+        "Time": "02:28AM",
+        "Status": "Received"
+      },
+      "id": "9a55"
+    },
+    {
+      "Date": "Nov 30",
+      "Currency": {
+        "image": "/images/Ethereum.svg",
+        "Name": "Euro",
+        "Amount": "0.0092363"
+      },
+      "From_To": {
+        "Profile_Image": "profile.jpg",
+        "Name": "Jessica May"
+      },
+      "Time_Status": {
+        "Time": "10:08AM",
+        "Status": "Processing"
+      },
+      "id": "5e5f"
+    },
+    {
+      "Date": "Nov 29",
+      "Currency": {
+        "image": "/images/Ethereum.svg",
+        "Name": "Litecoin",
+        "Amount": "1.00009023"
+      },
+      "From_To": {
+        "Profile_Image": "profile.jpg",
+        "Name": "Lieonel Marsi"
+      },
+      "Time_Status": {
+        "Time": "06:05PM",
+        "Status": "Received"
+      },
+      "id": "ab1c"
+    }
+  ],
+  "profiles": [
+    {
+      "name": "Alicia Sierra",
+      "email": "aliciasierra389@gmail.com",
+      "profileImage": "{profile1}",
+      "follows": "Follow",
+      "id": "2823"
+    },
+    {
+      "name": "Samantha Mery",
+      "email": "samanthamery@gmail.com",
+      "profileImage": "{profile1}",
+      "follows": "Follow",
+      "id": "e0d9"
+    },
+    {
+      "name": "Juliana Pena",
+      "email": "juliapena555@gmail.com",
+      "profileImage": "{profile1}",
+      "follows": "Follow",
+      "id": "cb6d"
+    },
+    {
+      "name": "Adam Smith",
+      "email": "adamsmith99@gmail.com",
+      "profileImage": "{profile1}",
+      "follows": "Follow",
+      "id": "4f2b"
+    },
+    {
+      "name": "Farhaan Amhed",
+      "email": "farhaanahmed989@gmail.com",
+      "profileImage": "{profile1}",
+      "follows": "Follow",
+      "id": "1729"
+    }
+  ],
+  "profileTabs": [
+    {
+      "id": "1",
+      "name": "Samantha May",
+      "email": "samanthamay2912@gmail.com",
+      "role": "Team Member",
+      "profileImageUrl": "profileimage",
+      "actions": [
+        {
+          "name": "Block"
+        },
+        {
+          "name": "Unfollow"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Andrew Garfield",
+      "email": "andrewgarfield98@gmail.com",
+      "role": "Team Lead",
+      "profileImageUrl": "profileimage",
+      "actions": [
+        {
+          "name": "Block"
+        },
+        {
+          "name": "Unfollow"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Jessica Cashew",
+      "email": "jessicacashew143@gmail.com",
+      "role": "Team Member",
+      "profileImageUrl": "profileimage",
+      "actions": [
+        {
+          "name": "Block"
+        },
+        {
+          "name": "Unfollow"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Simon Cowan",
+      "email": "jessicacashew143@gmail.com",
+      "role": "Team Manager",
+      "profileImageUrl": "profileimage",
+      "actions": [
+        {
+          "name": "Block"
+        },
+        {
+          "name": "Unfollow"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Amanda nunes",
+      "email": "amandanunes45@gmail.com",
+      "role": "Team Member",
+      "profileImageUrl": "profileimage",
+      "actions": [
+        {
+          "name": "Block"
+        },
+        {
+          "name": "Unfollow"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Mahira Hose",
+      "email": "mahirahose9456@gmail.com",
+      "role": "Team Member",
+      "profileImageUrl": "",
+      "actions": [
+        {
+          "name": "Block"
+        },
+        {
+          "name": "Unfollow"
+        }
+      ]
+    }
+  ],
+  "postTabs": [
+    {
+      "id": "9ec9",
+      "name": "You",
+      "timestamp": "11, Apr - 12:28PM",
+      "content": "hjsbxdhjbs👍👍",
+      "message": "hjsbxdhjbs👍👍",
+      "tags": [
+        "Nature"
+      ],
+      "img": "blob:http://localhost:3001/cdf9071a-24e4-4788-94ba-b6af76ac4b92"
+    },
+    {
+      "id": "9efb",
+      "name": "You",
+      "timestamp": "11, Apr - 12:29PM",
+      "content": "  mbnsbnxb😀😀",
+      "message": "  mbnsbnxb😀😀",
+      "tags": [
+        "Nature"
+      ],
+      "img": "blob:http://localhost:3001/6cf34770-647a-4ae4-971e-5e41ece87f04"
+    },
+    {
+      "id": "6506",
+      "name": "You",
+      "timestamp": "11, Apr - 12:29PM",
+      "content": "cxdzcc 👍😍",
+      "message": "cxdzcc 👍😍",
+      "tags": [
+        "Nature"
+      ],
+      "img": "blob:http://localhost:3001/0c94e2ad-e444-4b06-a0e7-7c2ccf7dbca8"
+    }
+  ]
+}

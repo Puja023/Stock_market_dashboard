@@ -1,0 +1,27 @@
+@media only screen and (max-width: 767px){
+    .dropdown_bitcoin{
+      width: 52% !important;
+    }
+    .dropdown_bitcoin_button{
+      width: 100%;
+    }
+    .notification_icon{
+      height: 22px;
+      width: 25px;
+      right: 0;
+    }
+    .incdecButton{
+        flex-wrap: wrap !important;
+     }
+     .icon_header{
+       gap: 10px;
+     }
+  }
+ 
+  @media only screen and (min-width: 768px) and (max-width: 1024px) {
+ 
+    .dropdown_bitcoin{
+      width: 27% !important;
+    }
+  }
+    
