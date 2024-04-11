@@ -141,7 +141,7 @@ function ProfileHeader() {
                         </div>
                         <div className='p-6'>
                             <p class="text-[.9375rem] mb-2 me-6 font-semibold text-white">Skills :</p>
-                            <div>
+                            <div className='flex flex-wrap  items-center'>
                                 <span className="badge bg-light  dark:text-white/50 m-1 bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-green-900 dark:text-green-300">Cloud Computing</span>
                                 <span className="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-green-900 dark:text-green-300">Data Analysis</span>
                                 <span className="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-green-900 dark:text-green-300">DevOps</span>                                <span className="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-green-900 dark:text-green-300">Programming</span>
